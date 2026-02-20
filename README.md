@@ -1,3 +1,9 @@
+
+# My Changes and Results
+<img width="930" height="640" alt="Screenshot 2026-02-20 at 3 37 50 PM" src="https://github.com/user-attachments/assets/7cc84478-654a-47ef-871a-e2732e8dd855" />
+
+
+# Original Repository Information
 # FQS: Fast Quartic and Cubic solver
 
 A fast python function for computing roots of a quartic equation (4th order polynomial) and a cubic equation (3rd order polynomial).
